@@ -1,0 +1,7 @@
+<?
+$MESS['RANK_USERS_ENTITY_ID_FIELD'] = 'id';
+$MESS['RANK_USERS_ENTITY_USER_ID_FIELD'] = 'user_id';
+$MESS['RANK_USERS_ENTITY_RANK_ID_FIELD'] = 'rank_id';
+$MESS['RANK_USERS_ENTITY_active_FIELD'] = 'Активен';
+$MESS['RANK_USERS_ENTITY_DATE_SETTING_FIELD'] = 'Дата изменения';
+?>

@@ -1,0 +1,60 @@
+.lpReferralCabinet table {border: none; border-top: 1px solid #adbdca; border-spacing: 0; width: 100%; margin-bottom: 20px;}
+	.lpReferralCabinet table thead td {background-color: rgba(45, 152, 218, 0.5); font-weight: bold; vertical-align: middle; padding: 10px 15px; transition: .3s background; font-size: 13px; font-weight: bold;}
+		.lpReferralCabinet table thead td:hover {background-color: rgba(45, 152, 218, 0.75);}
+	.lpReferralCabinet table tbody td {background: #fff; border: none; color: #000; font-size: 13px; height: 15px; padding: 10px 15px; text-align: left; vertical-align: top; transition: .3s background;}
+	.lpReferralCabinet table tbody tr:nth-child(odd) td {background-color: rgba(45, 152, 218, 0.15);}
+	.lpReferralCabinet table tbody tr:hover td {background-color: rgba(45, 152, 218, 0.3);}
+	.lpReferralCabinet table tbody tr td.add {color: #20bf6b; font-weight: bold;}
+	.lpReferralCabinet table tbody tr td.remove {color: #eb3b5a; font-weight: bold;}
+	
+.lpReferralCabinet dt span{font-weight:normal;}
+.lpReferralCabinet dd+dt{margin-top:20px;}
+
+.lpReferralCabinet .ref_table thead td{cursor:pointer; position: relative;}
+.lpReferralCabinet .ref_table thead td.down::after{
+	display:block;
+	position:absolute;
+	top:14px;
+	right: 8px;;
+	content:'';
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 8px 8px 8px;
+	border-color: transparent transparent #007bff transparent;
+}
+.lpReferralCabinet .ref_table thead td.up::after{
+	display:block;
+	position:absolute;
+	top:14px;
+	right: 8px;;
+	content:'';
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 8px 8px 0 8px;
+	border-color: #007bff transparent transparent transparent;
+}
+
+.lpReferralCabinet .socialButtons a{display:inline-block; cursor:pointer;}
+.error.loyalty{color:#f00;}
+.loyalty.success{color:#0f0;}
+
+.lpBindingTools .link{color:#23527c; cursor:pointer; border-bottom: 1px dashed; display:inline-block; margin-right:10px;}
+.lpBindingTools span.link.sub_url{border-bottom: none;}
+.lpBindingTools .socialButtons{margin-top:15px; height:0; overflow:hidden;}
+.lpBindingTools .socialButtons img{max-width:35px; border-radius: 50%;}
+
+.lpBindingTools .url{margin-right:10px;}
+
+.lpBindingTools .refDesc {margin-bottom: 10px;}
+.lpBindingTools .descTools {margin-bottom: 15px; font-style: italic;}
+.lpBindingTools .couponItem {margin: 10px 0;}
+.lpBindingTools .perfectPreview {border: 2px dotted #2d98da; padding: 10px 15px; font-size: 18px; color: #45aaf2; margin-right: 10px; min-width: 200px; display: inline-block; text-align: center;}
+
+.descRef {margin-bottom: 15px; font-style: italic;}
+.info_error{color:#f00;}
+.siteItem table{margin-top:8px;}
+.siteItem table .fa{cursor:pointer;}
+
+#popup-delete .popup-window-content{padding: 10px 20px 0;}

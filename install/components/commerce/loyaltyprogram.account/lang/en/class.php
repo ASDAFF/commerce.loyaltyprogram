@@ -1,0 +1,34 @@
+<?
+$MESS['sw24_loyaltyprogram.NOT_AUTHORIZE'] = 'Not authorized';
+$MESS['sw24_loyaltyprogram.MODULE_NOT_INCLUDE'] = 'Module not connected';
+$MESS['sw24_loyaltyprogram.PAGER_NAME'] = 'Page';
+$MESS['sw24_loyaltyprogram.TRTYPE_ORDER_PAY'] = 'Order has been paid';
+$MESS['sw24_loyaltyprogram.TRTYPE_ORDER_UNPAY'] = 'Cancellation of order payment';
+$MESS['sw24_loyaltyprogram.TRTYPE_MANUAL'] = 'Manual account change';
+$MESS['sw24_loyaltyprogram.TRTYPE_COMMERCE_LOYAL_GROUPS'] = 'Bulk account change';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_REGISTER'] = 'Accrual of bonuses for registration';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BIRTHDAY'] = 'Accrual of bonuses for birthday';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSADD'] = 'Accrual of bonuses for an order';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_PROFILECOMPLETED'] = 'Accrual of bonuses for completing a profile';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_SUBSCRIBE'] = 'Subscription bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_TURNOVER'] = 'Accrual of bonuses per turnover';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_TURNOVERREF'] = 'Accrual of bonuses for referral network turnover';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_IMPORTBONUS'] = 'Import bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_COPYRIGHTER'] = 'Accrual to the copyright holder';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_OUTERSOURCE'] = 'Accrual of bonuses from external sources';
+$MESS['sw24_loyaltyprogram.TRANSACT_OUT_CHARGE_OFF'] = 'Bonus account replenishment';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_UNPAY'] = 'Return of bonuses from a paid order';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_CANCEL_PART'] = 'Refund of bonuses from a partially paid order';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_CANCEL_PART_SYSTEM'] = 'Refund of bonuses from a partially paid order (bitrix)';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_WRITEOFF_acc'] = 'Refund of withdrawal bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_REVIEWS_acc'] = 'Review charge';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_GROUPS_acc'] = 'Mass accrual of bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_EXCESS_SUM_PAID'] = 'Refund of part of the payment when the order amount is reduced to the internal account';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSPAY'] = 'Payment for the order with bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_PAY'] = 'Payment for the order with bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_WRITEOFF'] = 'Withdraw bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSREFUND'] = 'Writing off accrued bonuses for a canceled order';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_GROUPS'] = 'Mass write-off of bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSOVERDUE'] = 'Burnout of expired bonuses';
+$MESS['sw24_loyaltyprogram.TRANSACT_MANUAL'] = 'Manual account change';
+?>

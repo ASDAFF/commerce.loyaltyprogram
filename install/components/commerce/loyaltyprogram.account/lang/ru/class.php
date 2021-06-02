@@ -1,0 +1,34 @@
+<?
+$MESS['sw24_loyaltyprogram.NOT_AUTHORIZE'] = 'Вы не авторизованы';
+$MESS['sw24_loyaltyprogram.MODULE_NOT_INCLUDE'] = 'Модуль не подключен';
+$MESS['sw24_loyaltyprogram.PAGER_NAME'] = 'Страница';
+$MESS['sw24_loyaltyprogram.TRTYPE_ORDER_PAY'] = 'Заказ оплачен';
+$MESS['sw24_loyaltyprogram.TRTYPE_ORDER_UNPAY'] = 'Отмена оплаты заказа';
+$MESS['sw24_loyaltyprogram.TRTYPE_MANUAL'] = 'Ручное изменение счёта';
+$MESS['sw24_loyaltyprogram.TRTYPE_COMMERCE_LOYAL_GROUPS'] = 'Массовое изменение счёта';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_REGISTER'] = 'Начисление бонусов за регистрацию';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BIRTHDAY'] = 'Начисление бонусов за день рождения';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSADD'] = 'Начисление бонусов за заказ';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_PROFILECOMPLETED'] = 'Начисление бонуcов за заполнение профиля';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_SUBSCRIBE'] = 'Начисление бонуcов за подписку';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_TURNOVER'] = 'Начисление бонуcов за оборот';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_TURNOVERREF'] = 'Начисление бонуcов за оборот реферальной сети';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_IMPORTBONUS'] = 'Импорт бонусов';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_COPYRIGHTER'] = 'Начисление правообладателю';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_OUTERSOURCE'] = 'Начисление бонуcов из внешних источников';
+$MESS['sw24_loyaltyprogram.TRANSACT_OUT_CHARGE_OFF'] = 'Пополнение бонусного счёта';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_UNPAY'] = 'Возврат бонусов с оплаченного заказа';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_CANCEL_PART'] = 'Возврат бонусов с частично оплаченного заказа';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_CANCEL_PART_SYSTEM'] = 'Возврат бонусов с частично оплаченного заказа (битрикс)';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_WRITEOFF_acc'] = 'Возврат вывода бонусов';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_REVIEWS_acc'] = 'Начисление за отзыв';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_GROUPS_acc'] = 'Массовое начисление бонусов';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_EXCESS_SUM_PAID'] = 'Возврат части оплаты при уменьшении суммы заказа на внутренний счёт';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSPAY'] = 'Оплата заказа бонусами';
+$MESS['sw24_loyaltyprogram.TRANSACT_ORDER_PAY'] = 'Оплата заказа бонусами';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_WRITEOFF'] = 'Вывод бонусов';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSREFUND'] = 'Списание начисленных бонусов за отмененный заказ';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_GROUPS'] = 'Массовое списание бонусов';
+$MESS['sw24_loyaltyprogram.TRANSACT_COMMERCE_LOYAL_BONUSOVERDUE'] = 'Сгорание истёкших бонусов';
+$MESS['sw24_loyaltyprogram.TRANSACT_MANUAL'] = 'Ручное изменение счёта';
+?>

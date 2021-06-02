@@ -1,0 +1,32 @@
+<?
+$MESS['commerce.loyaltyprogram_MENU_MAIN'] = 'Программа лояльности';
+$MESS['commerce.loyaltyprogram_MENU_MAIN_TITLE'] = 'Система лояльности клиентов сайта';
+$MESS['commerce.loyaltyprogram_MENU_MANAGE'] = 'Управление';
+$MESS['commerce.loyaltyprogram_MENU_MANAGE_TITLE'] = 'Управление';
+$MESS['commerce.loyaltyprogram_MENU_BALANCE'] = 'Баланс';
+$MESS['commerce.loyaltyprogram_MENU_BALANCE_TITLE'] = 'Баланс';
+$MESS['commerce.loyaltyprogram_MENU_PROFILE'] = 'Профили лояльности';
+$MESS['commerce.loyaltyprogram_MENU_PROFILE_TITLE'] = 'Настройка, сохранение, профилей лояльности';
+$MESS['commerce.loyaltyprogram_MENU_TRANSACT'] = 'Список транзакций';
+$MESS['commerce.loyaltyprogram_MENU_TRANSACT_TITLE'] = 'Список транзакций модуля лояльности';
+$MESS['commerce.loyaltyprogram_MENU_ACCOUNT'] = 'Счета покупателей';
+$MESS['commerce.loyaltyprogram_MENU_ACCOUNT_TITLE'] = 'Счета покупателей интернет-магазина';
+$MESS['commerce.loyaltyprogram_MENU_REFERRALS'] = 'Реферальная сеть';
+$MESS['commerce.loyaltyprogram_MENU_REFERRALS_TITLE'] = 'Список рефералов';
+$MESS['commerce.loyaltyprogram_MENU_RANKS'] = 'Ранги пользователей';
+$MESS['commerce.loyaltyprogram_MENU_RANKS_TITLE'] = 'Ранги пользователей';
+$MESS['commerce.loyaltyprogram_MENU_RANKS_LIST_USERS'] = 'Список пользователей (ранги)';
+$MESS['commerce.loyaltyprogram_MENU_RANKS_LIST_USERS_TITLE'] = 'Список пользователей (ранги)';
+$MESS['commerce.loyaltyprogram_MENU_GROUPS'] = 'Массовые операции';
+$MESS['commerce.loyaltyprogram_MENU_GROUPS_TITLE'] = 'Массовые операции';
+$MESS['commerce.loyaltyprogram_MENU_WRITEOFF'] = 'Вывод средств';
+$MESS['commerce.loyaltyprogram_MENU_WRITEOFF_TITLE'] = 'Вывод средств';
+$MESS['commerce.loyaltyprogram_MENU_DOCUMENTATION'] = 'Документация';
+$MESS['commerce.loyaltyprogram_MENU_DOCUMENTATION_TITLE'] = 'Документация';
+$MESS['commerce.loyaltyprogram_MENU_IMPORT'] = 'Импорт данных';
+$MESS['commerce.loyaltyprogram_MENU_IMPORT_TITLE'] = 'Импорт данных';
+$MESS['commerce.loyaltyprogram_MENU_SETTING'] = 'Настройки';
+$MESS['commerce.loyaltyprogram_MENU_SETTING_TITLE'] = 'Настройка системы лояльности клиентов';
+$MESS['commerce.loyaltyprogram_MENU_EDITQUEUE'] = 'Бонусы в очереди';
+$MESS['commerce.loyaltyprogram_MENU_EDITQUEUE_TITLE'] = 'Управление бонусами которые ещё не активированы';
+?>

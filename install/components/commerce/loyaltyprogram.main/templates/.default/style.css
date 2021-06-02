@@ -1,0 +1,8 @@
+.lpNavigation {display: flex; flex-wrap: wrap; justify-content: center; margin: 0 auto; margin-bottom: 20px;}
+	.lpNavigation article {flex: 1 1 33%; text-align: center;}
+		.lpNavigation article a {display: block; margin: 10px 5px; transition: .3s box-shadow; color: #ffffff; font-size: 20px; padding: 30px 15px;}
+		.lpNavigation article a:hover {box-shadow: 0px 0px 10px rgba(44, 62, 80, 0.7);}
+			.lpNavigation article a img {max-width: 25%; margin-bottom: 15px;}
+		
+		.lpNavigation article.Boyzone a {background: linear-gradient(-45deg, #2d98da 0%, #45aaf2 100%);}
+		.lpNavigation article.Turquoise-Topaz a {background: linear-gradient(-45deg, #0fb9b1 0%, #2bcbba 100%);}

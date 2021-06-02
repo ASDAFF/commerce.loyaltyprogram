@@ -1,0 +1,12 @@
+<?
+$MESS['RANK_USERS_ENTITY_ID_FIELD'] = 'id';
+$MESS['RANK_USERS_ENTITY_USER_ID_FIELD'] = 'User';
+$MESS['RANK_USERS_ENTITY_RANK_ID_FIELD'] = 'Rank';
+$MESS['RANK_USERS_ENTITY_active_FIELD'] = 'Active';
+$MESS['RANK_USERS_ENTITY_PARAMS_FIELD'] = 'Options';
+$MESS['RANK_USERS_ENTITY_DATE_SETTING_FIELD'] = 'Date of change';
+$MESS['RANK_USERS_ENTITY_ACTIVE_FIELD'] = 'Activity';
+$MESS['RANK_USERS_ENTITY_RANK_NOT_FOUND'] = 'Rank not found';
+$MESS['RANK_USERS_ENTITY_RANK_ADDED_EARLIER'] = 'This user has already been assigned a rank.';
+$MESS['RANK_USERS_ENTITY_USER_NOT_FOUND'] = 'This user does not exist';
+?>
